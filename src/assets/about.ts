@@ -1,0 +1,4 @@
+export const message = {
+  'es':'Full Stack Developer y bachiller en Ingeniería Mecatrónica, estoy dando mis primeros pasos en este emocionante mundo de la tecnología, cuento con experiencia en Javascript, Node.Js, React, SASS, Apps Script, VBA entre otras tecnologías, además de experiencia en solución de problemas y liderazgo de equipos. Quiero participar en proyectos increíbles y realizar un singular aporte en ellos',
+  'en':'Full-Stack developer and with completed studies in Mechatronic Engineering, I’m taking my first steps in this exciting technology world. I have experience in Javascript, Node.Js, React.Js among other technologies, also I have a background with problem solutions and team leadership. I want to participate in amazing projects and make a singular contribution in them.'
+}
