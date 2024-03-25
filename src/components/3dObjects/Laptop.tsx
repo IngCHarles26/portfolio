@@ -1,4 +1,4 @@
-import { Html, useGLTF } from '@react-three/drei'
+import { useGLTF } from '@react-three/drei'
 import Cv from '../screen/Cv';
 import { useState } from 'react';
 

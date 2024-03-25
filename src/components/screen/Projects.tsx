@@ -2,8 +2,6 @@ import { Html } from "@react-three/drei";
 import { projectsList } from "../../assets/projects";
 import { Frame } from "./Frame";
 
-const {PI} = Math;
-
 function Projects() {
 
 

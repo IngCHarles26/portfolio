@@ -1,6 +1,5 @@
 import { Html } from "@react-three/drei";
 import { logos } from "../../images/images";
-import { useState } from "react";
 import { cv } from "../../assets/projects";
 
 const {PI} = Math;

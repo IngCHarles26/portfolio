@@ -2,8 +2,6 @@ import { Html } from "@react-three/drei";
 import { message } from "../../assets/about";
 import { useState } from "react";
 
-const {PI} = Math;
-
 
 const {es,en} = message;
 // let typeMessage = true;
