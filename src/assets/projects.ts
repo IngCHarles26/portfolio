@@ -15,7 +15,7 @@ export interface infoProjects{
 export const projectsList:infoProjects[] = [
   {
     position: [0,posy,posz],
-    project: 'https://www.google.com',
+    project: 'rick-morty-sepia-zeta.vercel.app',
     image: projects[0]
   },
 ]
