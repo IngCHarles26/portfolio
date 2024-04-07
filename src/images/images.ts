@@ -9,8 +9,9 @@ import react from './react.png';
 import ts from './ts.png';
 import css from './css.png';
 import peru from './peru.png';
-import rickandmorty from './r&m.jpg';
 import cv from './CV.png';
+import rickandmorty from './r&m.jpg';
+import mines from './mines.jpg';
 
 export const images = {
   grass,dirt,log,glass,wood
@@ -44,5 +45,5 @@ export const back = [
 ]
 
 export const projects = [
-  rickandmorty
+  rickandmorty,mines
 ]
