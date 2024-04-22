@@ -14,15 +14,20 @@ export interface infoProjects{
 
 
 export const projectsList:infoProjects[] = [
-  {
-    position: [posx,-posy,posz],
+  { // rick and morty
+    position: [0,-posy,posz],
     project: 'https://rick-morty-sepia-zeta.vercel.app',
     image: projects[0]
   },
-  {
-    position: [-posx,-posy,posz],
+  { // busca minas
+    position: [2*posx,-posy,posz],
     project: 'https://mines-weeper-omega.vercel.app',
     image: projects[1]
+  },
+  { // snake
+    position: [-2*posx,-posy,posz],
+    project: 'https://snake-drab-five.vercel.app/',
+    image: projects[2]
   },
 ]
 
